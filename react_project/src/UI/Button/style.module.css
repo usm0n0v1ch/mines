@@ -1,0 +1,31 @@
+
+
+.success {
+    background-color:green;
+    color:white;
+    padding: 0.5rem 1rem;
+    outline:none;
+    border:1px solid green;
+    cursor:pointer;
+    border-radius:0.2rem;
+
+}
+.error{
+    background-color:red;
+    color:black;
+    padding: 0.5rem 1rem;
+    outline:none;
+    border:1px solid red;
+    cursor:pointer;
+    border-radius:0.2rem;
+}
+
+.warning{
+    background-color:yellow;
+    color:black;
+    padding: 0.5rem 1rem;
+    outline:none;
+    border:1px solid red;
+    cursor:pointer;
+    border-radius:0.2rem;
+}
